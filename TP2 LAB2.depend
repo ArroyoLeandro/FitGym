@@ -1,0 +1,182 @@
+# depslib dependency file v1.0
+1510777165 source:c:\users\arroyo\desktop\tplab2\tp2 lab2\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<stdlib.h>
+	<cstring>
+	<windows.h>
+	<time.h>
+	"Menus.h"
+	"Actividades.h"
+	"pagos.h"
+	"clientes.h"
+
+1510777239 c:\users\arroyo\desktop\tplab2\tp2 lab2\menus.h
+
+1510057863 c:\users\arroyo\desktop\tplab2\tp2 lab2\compraventa.h
+
+1510780202 c:\users\arroyo\desktop\tplab2\tp2 lab2\clientes.h
+
+1510057729 c:\users\arroyo\desktop\tplab2\tp2 lab2\articulos.h
+
+1510779481 c:\users\arroyo\desktop\tplab2\tp2 lab2\actividades.h
+
+1510776373 c:\users\arroyo\desktop\tplab2\tp2 lab2\pagos.h
+
+1512620917 source:c:\users\arroyo\desktop\tp2 lab2 v2\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<stdlib.h>
+	<cstring>
+	<windows.h>
+	<time.h>
+	<string>
+	"fecha.h"
+	"Menus.h"
+	"Actividades.h"
+	"clientes.h"
+	"pagos.h"
+
+1512627397 c:\users\arroyo\desktop\tp2 lab2 v2\menus.h
+
+1513231043 c:\users\arroyo\desktop\tp2 lab2 v2\actividades.h
+
+1513245338 c:\users\arroyo\desktop\tp2 lab2 v2\pagos.h
+
+1513230745 c:\users\arroyo\desktop\tp2 lab2 v2\clientes.h
+
+1512620917 source:c:\users\arroyo\desktop\tplab2\tp2 lab2 v2\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<stdlib.h>
+	<cstring>
+	<windows.h>
+	<time.h>
+	<string>
+	"fecha.h"
+	"Menus.h"
+	"Actividades.h"
+	"clientes.h"
+	"pagos.h"
+
+1512627397 c:\users\arroyo\desktop\tplab2\tp2 lab2 v2\menus.h
+
+1512628437 c:\users\arroyo\desktop\tplab2\tp2 lab2 v2\actividades.h
+
+1513218604 c:\users\arroyo\desktop\tplab2\tp2 lab2 v2\pagos.h
+
+1513191685 c:\users\arroyo\desktop\tplab2\tp2 lab2 v2\clientes.h
+
+1512609292 c:\users\arroyo\desktop\tplab2\tp2 lab2 v2\fecha.h
+
+1512609292 c:\users\arroyo\desktop\tp2 lab2 v2\fecha.h
+
+1512620918 source:d:\tp2 lab2 v2(media verificacion)\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<stdlib.h>
+	<cstring>
+	<windows.h>
+	<time.h>
+	<string>
+	"fecha.h"
+	"Menus.h"
+	"Actividades.h"
+	"clientes.h"
+	"pagos.h"
+
+1512609294 d:\tp2 lab2 v2(media verificacion)\fecha.h
+
+1512627398 d:\tp2 lab2 v2(media verificacion)\menus.h
+
+1513231044 d:\tp2 lab2 v2(media verificacion)\actividades.h
+
+1513230746 d:\tp2 lab2 v2(media verificacion)\clientes.h
+
+1513254802 d:\tp2 lab2 v2(media verificacion)\pagos.h
+
+1513259830 source:d:\tp2 lab2 v2(completo)\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<stdlib.h>
+	<cstring>
+	<windows.h>
+	<time.h>
+	<string>
+	"fecha.h"
+	"Menus.h"
+	"Actividades.h"
+	"clientes.h"
+	"pagos.h"
+
+1512609294 d:\tp2 lab2 v2(completo)\fecha.h
+
+1512627398 d:\tp2 lab2 v2(completo)\menus.h
+
+1513257772 d:\tp2 lab2 v2(completo)\actividades.h
+
+1513230746 d:\tp2 lab2 v2(completo)\clientes.h
+
+1513259730 d:\tp2 lab2 v2(completo)\pagos.h
+
+1513259830 source:c:\users\arroyo\desktop\tplab2\tp de laboratorio entregado para final\tp2 lab2 v2(completo) entregado en 2do parcial\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<stdlib.h>
+	<cstring>
+	<windows.h>
+	<time.h>
+	<string>
+	"fecha.h"
+	"Menus.h"
+	"Actividades.h"
+	"clientes.h"
+	"pagos.h"
+
+1512609294 c:\users\arroyo\desktop\tplab2\tp de laboratorio entregado para final\tp2 lab2 v2(completo) entregado en 2do parcial\fecha.h
+
+1512627398 c:\users\arroyo\desktop\tplab2\tp de laboratorio entregado para final\tp2 lab2 v2(completo) entregado en 2do parcial\menus.h
+
+1513257772 c:\users\arroyo\desktop\tplab2\tp de laboratorio entregado para final\tp2 lab2 v2(completo) entregado en 2do parcial\actividades.h
+
+1513230746 c:\users\arroyo\desktop\tplab2\tp de laboratorio entregado para final\tp2 lab2 v2(completo) entregado en 2do parcial\clientes.h
+
+1513259730 c:\users\arroyo\desktop\tplab2\tp de laboratorio entregado para final\tp2 lab2 v2(completo) entregado en 2do parcial\pagos.h
+
+1529712454 source:c:\users\larroyo\desktop\arroyo\nueva carpeta\tp2 lab2 v2(completo) entregado en 2do parcial\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<stdlib.h>
+	<cstring>
+	<windows.h>
+	<time.h>
+	<string>
+	"fecha.h"
+	"clases.h"
+	"Menus.h"
+	"Actividades.h"
+	"clientes.h"
+	"pagos.h"
+
+1512609294 c:\users\larroyo\desktop\arroyo\nueva carpeta\tp2 lab2 v2(completo) entregado en 2do parcial\fecha.h
+
+1512627398 c:\users\larroyo\desktop\arroyo\nueva carpeta\tp2 lab2 v2(completo) entregado en 2do parcial\menus.h
+
+1529712556 c:\users\larroyo\desktop\arroyo\nueva carpeta\tp2 lab2 v2(completo) entregado en 2do parcial\actividades.h
+	"clases.h"
+	<ctype.h>
+
+1529109568 c:\users\larroyo\desktop\arroyo\nueva carpeta\tp2 lab2 v2(completo) entregado en 2do parcial\clientes.h
+	<stdexcept>
+
+1528836439 c:\users\larroyo\desktop\arroyo\nueva carpeta\tp2 lab2 v2(completo) entregado en 2do parcial\pagos.h
+
+1528836438 c:\users\larroyo\desktop\arroyo\nueva carpeta\tp2 lab2 v2(completo) entregado en 2do parcial\clases.h
+
